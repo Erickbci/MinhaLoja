@@ -49,6 +49,13 @@
 }
 
 h2 {
+    padding: 20px 0;
+    background-color: #4c3282;
+    text-align: center;
+    color: #fff;
+}
+
+h3 {
     padding: 10px 0;
     background-color: #4c3282;
     text-align: center;

@@ -1,19 +1,37 @@
 const items = [{
         id: 0,
-        nome: 'Camiseta Modelo 1',
+        nome: 'Camiseta Modelo Classic "White and Black Masc" ',
         img: 'camisa.jpg',
         quantidade: 0,
     },
     {
         id: 1,
-        nome: 'Camiseta Modelo 2',
+        nome: 'Camiseta Modelo Classic "White and Black Fem" ',
         img: 'camisa2.jpg',
         quantidade: 0,
     },
     {
         id: 2,
-        nome: 'Camiseta Modelo 3',
+        nome: 'Camiseta Modelo Classic "Black and White Fem"',
         img: 'camisa3.jpg',
+        quantidade: 0,
+    },
+    {
+        id: 3,
+        nome: 'Camiseta Modelo Classic "Rose and Black Fem"',
+        img: 'camisa4.webp',
+        quantidade: 0,
+    },
+    {
+        id: 4,
+        nome: 'Camiseta Modelo Striped "Black and White Fem"',
+        img: 'camisa5.webp',
+        quantidade: 0,
+    },
+    {
+        id: 5,
+        nome: 'Camiseta Modelo Classic "White and Green Fem"',
+        img: 'camisa6.jpg',
         quantidade: 0,
     },
 ]
